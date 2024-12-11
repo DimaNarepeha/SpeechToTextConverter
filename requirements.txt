@@ -1,0 +1,6 @@
+deepgram-sdk==3.*
+python-dotenv
+jiwer
+tf-keras
+torch
+transformers
