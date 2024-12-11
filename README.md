@@ -44,8 +44,11 @@ In the main() function of main.py, set the use_whisper variable:
 
 True: Use Whisper for transcription.
 False: Use Deepgram for transcription.
+
 3. Run the transcribe.py file
+
 4. Output Files
+
 transcription.txt: The transcribed text.
 metrics.log: Contains latency and WER metrics.
 ## License
