@@ -35,7 +35,7 @@ Install the required libraries:
 pip install -r requirements.txt
 ```
 
-##Usage
+## Usage
 1. Prepare Input Files
 Audio File: Place your audio file in the project directory and name it input_audio.wav (must be in WAV format).
 Ground Truth File: Create a file named ground_truth.txt containing the reference text(ground truth) for WER calculation.
